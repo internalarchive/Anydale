@@ -1,0 +1,168 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/sun_rays_through_trees-wallpaper-5120x3200.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 914px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 584px;
+  min-height: 524px;
+  box-shadow: 0 2px 8px 0 rgba(0,0,0,1);
+  margin: 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 18px 16px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 488px;
+  margin: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: -462px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 292px;
+  width: 493px;
+  margin: 27px auto 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-size: 0.75rem;
+}
+
+.u-section-1 .u-input-1 {
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  font-size: 1rem;
+}
+
+.u-section-1 .u-label-2 {
+  font-size: 0.75rem;
+}
+
+.u-section-1 .u-input-2 {
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  font-size: 1rem;
+}
+
+.u-section-1 .u-label-3 {
+  font-size: 0.75rem;
+}
+
+.u-section-1 .u-btn-1 {
+  width: 50%;
+  background-image: none;
+  border-style: none;
+  font-size: 1rem;
+  padding: 10px 31px 10px 29px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none solid;
+  font-size: 1rem;
+  margin: 27px auto 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 754px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -461px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 21px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 578px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 434px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 781px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 110px;
+    min-height: 464px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 438px;
+    margin-top: 5px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: -406px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 300px;
+    margin-top: 26px;
+  }
+
+  .u-section-1 .u-input-1 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-input-2 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.75rem;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 0.75rem;
+    margin-top: 22px;
+  }
+}
